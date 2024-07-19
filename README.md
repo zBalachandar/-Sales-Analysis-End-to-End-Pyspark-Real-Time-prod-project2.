@@ -1,4 +1,4 @@
-# Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2.
+# Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project 2.
 This is complete End to End PySpark project and we have covered each and every thing with PySpark Example and PySpark Project Scenario.
 <div align="center">
   <a href="#">
@@ -56,16 +56,22 @@ we have Business requirements and we want to do data cleaning and processing usi
 we have discussed how we work in real time in databricks and PySpark 
 
 
-![image]()
-
-
-
 
 <a name="data-transformation"></a>
 ### ⚙️ Data Transformation
  Data cleaning and processing using PySpark in databricks Environment.
 ### DataBricks Notebook.
-
+![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/01DT.png)
+![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/02DT.png)
+![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/03DT.png)
+![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/How%20many%20times%20each%20product%20purcahsed.png)
+![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/Quarterly%20sales.png)
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
 <a name="data-reporting"></a>
 ### 📊 Data Reporting KPI's
 I created presentation dashboard and insightful data visualizations.
