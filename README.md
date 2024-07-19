@@ -56,7 +56,6 @@ we have Business requirements and we want to do data cleaning and processing usi
 we have discussed how we work in real-time in Databricks and PySpark 
 
 
-
 <a name="data-transformation"></a>
 ### ⚙️ Data Transformation
  Data cleaning and processing using PySpark in Databricks Environment.
