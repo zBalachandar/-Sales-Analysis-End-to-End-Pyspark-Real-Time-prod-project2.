@@ -27,8 +27,8 @@ This is complete End to End PySpark project and we have covered each and every t
 <a name="introduction"></a>
 ## 🔬 Project Overview
 
-we have Business requirements and we want to do data cleaning and processing using PySpark in databricks Environment.
-we have discussed how we work in real time in databricks and PySpark 
+we have Business requirements and we want to do data cleaning and processing using PySpark in Databricks Environment.
+we have discussed how we work in real-time in Databricks and PySpark 
 we have developed the presentation Dashboard according to the Databricks notebook KPI's. 
 
 
@@ -52,29 +52,33 @@ what we have covered in this project:
 - Data processing with KPI's
 - Developed the KPI's Data Visualization according to the business requirement
 
-we have Business requirements and we want to do data cleaning and processing using PySpark in databricks Environment.
-we have discussed how we work in real time in databricks and PySpark 
+we have Business requirements and we want to do data cleaning and processing using PySpark in Databricks Environment.
+we have discussed how we work in real-time in Databricks and PySpark 
 
 
 
 <a name="data-transformation"></a>
 ### ⚙️ Data Transformation
- Data cleaning and processing using PySpark in databricks Environment.
+ Data cleaning and processing using PySpark in Databricks Environment.
 ### DataBricks Notebook.
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/01DT.png)
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/02DT.png)
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/03DT.png)
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/How%20many%20times%20each%20product%20purcahsed.png)
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/Quarterly%20sales.png)
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/Top%20ordered%20items.png)
+![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/Total%20amount%20SALES%20by%20each%20MONTH.png)
+![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/Total%20amount%20spend%20by%20each%20customer.png)
+![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/Total%20amount%20spend%20by%20each%20food%20category.png)
+![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/Total%20sales%20by%20each%20country.png)
+![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/YEARLY%20SALES.png)
+![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/frequency%20of%20customer%20visted%20res.png)
+![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/menu%20df.png)
+![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/b0eac8739b90c60e3ed4240c1c9fec3686e7935b/ASSETS/Pyspark%20Databricks%20Notebook/total%20sales%20by%20order%20sources.png)
+
 <a name="data-reporting"></a>
 ### 📊 Data Reporting KPI's
-I created presentation dashboard and insightful data visualizations.
+I created a presentation dashboard and insightful data visualizations.
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/2f3b674f3e74025cfb6873a19398a684ca4e7340/ASSETS/Sales%20Analysis%20Data%20bricks%2001.png)
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/2f3b674f3e74025cfb6873a19398a684ca4e7340/ASSETS/Sales%20Analysis%20Data%20bricks%2002.png)
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/2f3b674f3e74025cfb6873a19398a684ca4e7340/ASSETS/Sales%20Analysis%20Data%20bricks%2003%20dashboard.png)
