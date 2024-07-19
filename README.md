@@ -17,12 +17,12 @@ This is complete End to End PySpark project and we have covered each and every t
 
 ## 📝 Table of Contents
 1. [Project Overview](#introduction)
-  3. [Data Transformation](#data-transformation)
-  3.1 [DataBricks Notebook]
-  4. [Data Reporting](#data-reporting)
-     4.1[DASHBOARD Presentation]
-6. [Credits](#credits)
-7. [Contact](#contact)
+2. [Data Transformation](#data-transformation)
+   2.1 [DataBricks Notebook]
+3. [Data Reporting](#data-reporting)
+     3.1[DASHBOARD Presentation]
+4. [Credits](#credits)
+5. [Contact](#contact)
 
 <a name="introduction"></a>
 ## 🔬 Project Overview
