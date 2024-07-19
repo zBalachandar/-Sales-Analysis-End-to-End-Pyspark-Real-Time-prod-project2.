@@ -61,7 +61,7 @@ we have discussed how we work in real-time in Databricks and PySpark
 ### ⚙️ Data Transformation
  Data cleaning and processing using PySpark in Databricks Environment.
 ### DataBricks Notebook.
-DataBricks Notebook Live-link: (https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4339393889004771/2305521296724873/1662184132138436/latest.html)
+[DataBricks Notebook Live-link](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4339393889004771/2305521296724873/1662184132138436/latest.html)
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/01DT.png)
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/02DT.png)
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/03DT.png)
@@ -80,7 +80,7 @@ DataBricks Notebook Live-link: (https://databricks-prod-cloudfront.cloud.databri
 <a name="data-reporting"></a>
 ### 📊 Data Reporting KPI's
 I created a presentation dashboard and insightful data visualizations.
-Data Visualization presentation Live-link : https://community.cloud.databricks.com/?o=4339393889004771#notebook/2305521296724873/dashboard/102889012920708/present
+[Data Visualization presentation Live-link](https://community.cloud.databricks.com/?o=4339393889004771#notebook/2305521296724873/dashboard/102889012920708/present)
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/2f3b674f3e74025cfb6873a19398a684ca4e7340/ASSETS/Sales%20Analysis%20Data%20bricks%2001.png)
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/2f3b674f3e74025cfb6873a19398a684ca4e7340/ASSETS/Sales%20Analysis%20Data%20bricks%2002.png)
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/2f3b674f3e74025cfb6873a19398a684ca4e7340/ASSETS/Sales%20Analysis%20Data%20bricks%2003%20dashboard.png)
