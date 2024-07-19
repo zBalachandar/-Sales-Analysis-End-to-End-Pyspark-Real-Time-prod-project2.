@@ -75,10 +75,15 @@ we have discussed how we work in real-time in Databricks and PySpark
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/Total%20amount%20spend%20by%20each%20customer.png)
 
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/Total%20amount%20spend%20by%20each%20food%20category.png)
+
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/Total%20sales%20by%20each%20country.png)
+
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/YEARLY%20SALES.png)
+
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/frequency%20of%20customer%20visted%20res.png)
+
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/main/ASSETS/Pyspark%20Databricks%20Notebook/menu%20df.png)
+
 ![image](https://github.com/zBalachandar/Sales-Analysis-End-to-End-Pyspark-Real-Time-prod-project2./blob/b0eac8739b90c60e3ed4240c1c9fec3686e7935b/ASSETS/Pyspark%20Databricks%20Notebook/total%20sales%20by%20order%20sources.png)
 
 <a name="data-reporting"></a>
